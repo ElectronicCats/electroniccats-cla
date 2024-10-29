@@ -1,6 +1,6 @@
 # Contribution Manual
 
-Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms. 
+Please note that this project is released with a [**Community code of conduct**](https://github.com/ElectronicCats/electroniccats-cla/blob/main/electroniccats-community-code-of-conduct.md). By participating in this project you agree to abide by its terms. 
 
 We welcome your code contributions to this repository. Whether you're introducing a new feature, fixing a bug, or addressing any other issue, you can create a Pull Request to contribute. However, before doing so, please review the following points that we evaluate in your code and our expectations for Pull Requests.
 
@@ -8,10 +8,10 @@ First, identify the project to which you want to contribute. Check if there are 
 
 See the instructions below for detailed instructions on how to do this via the GitHub web interface.
 Keep in mind
-We divide the contribution review into two processes. The first process aims to standardize the code and project structure, while the other focuses on the functionality and checks for coding style.
+[We](https://github.com/ElectronicCats) divide the contribution review into two processes. The first process aims to standardize the code and project structure, while the other focuses on the functionality and checks for coding style.
 In the first step, we check if the Pull Request adheres to Conventional Commit Specifications to understand what you intend to add. The next part addresses the code; we use snake_case coding style. We acknowledge that certain cases may require different styling conventions, but we prefer consistency across most of the code.
 Some check to know if your Pull Request will pass are:
-Conventional Commits in the Pull Request (Preferably, throughout the project’s commits)
+Conventional Commits in the Pull Request (preferably, throughout the project’s commits)
 snake_case in most of the code
 Documented code, We verify whether your commit includes a README.md file that explains the functionality of your contribution. It should cover not only the basic functionality but also any intricate or notable features that require clarification.
 ## Instructions
